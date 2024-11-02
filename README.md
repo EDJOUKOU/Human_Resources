@@ -1,4 +1,5 @@
 # Human Resources Report
+<img width="325" alt="Capture" src="https://github.com/user-attachments/assets/478c575f-0870-4114-ade1-963babac8d36">
 
 ## Project Overview
 This data analysis project uses HR data to evaluate key aspects of a company's workforce. Through a comprehensive examination of employee demographics, distribution, tenure, and turnover rates, the objective is to gain insights that will support strategic HR decisions and foster an inclusive and efficient work environment.
@@ -45,6 +46,8 @@ Data analysis was conducted on MySQL server Workbench, where SQL queries were ex
 9. Most employees were concentrated in specific cities and states.
 10. Employee headcount trends showed fluctuations tied to hiring and terminations over time.
 11. Tenure distribution helped gauge employee experience levels across departments.
+<img width="568" alt="HR Report 1" src="https://github.com/user-attachments/assets/8f8bf0bb-943b-4170-a941-c051ea758168">
+<img width="559" alt="Hr Report 2" src="https://github.com/user-attachments/assets/e03ac2c8-7699-4ad3-8623-4dcc0215f083">
 
 ## Recommendations
 Based on the analysis, the following strategies are recommended:
